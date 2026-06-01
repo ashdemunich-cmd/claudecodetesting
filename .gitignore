@@ -1,0 +1,60 @@
+# macOS system files
+.DS_Store
+.CFUserTextEncoding
+.Trash/
+.localized
+
+# Shell & config
+.zsh_history
+.zsh_sessions/
+.zshrc
+.zshrc.backup*
+.zprofile
+.bash_profile
+.tcshrc
+.xonshrc
+.lesshst
+
+# Personal directories
+Desktop/
+Documents/
+Downloads/
+Movies/
+Music/
+Pictures/
+Public/
+Library/
+Applications/
+Zotero/
+
+# Dev tool configs
+.vscode/
+.windsurf/
+.claude/
+.claude.json
+.codeium/
+.gitkraken/
+.config/
+.local/
+.npm/
+.ipython/
+.jupyter/
+.ipynb_checkpoints/
+.docker/
+.gradle/
+.android/
+.emulator_console_auth_token
+.skiko/
+.continuum/
+.anaconda/
+.conda/
+.condarc
+
+# Python / Anaconda
+anaconda_projects/
+AndroidStudioProjects/
+CascadeProjects/
+
+# Other personal files
+*.pdf
+My Python Notebook.ipynb
